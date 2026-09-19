@@ -1,0 +1,8 @@
+{
+  "name": "APKDoalong",
+  "description": "App store for downloading and publishing applications with built-in virus scanning and monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
